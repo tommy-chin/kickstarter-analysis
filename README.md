@@ -9,7 +9,7 @@ This chart shows the number of successful, failed, and canceled theatre outcomes
 ![Outcomes_vs_Goals.png](https://github.com/tommy-chin/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 This chart shows the percentage of successful, failed, and canceled Kickstarter outcomes based on the funding goal that was set. 
 ### Challenges
-There were no challenges or difficulties that were encountered when performing the analysis on the data. 
+There were no challenges or difficulties that were encountered when performing the analysis on the data. A possible problem that could have occurred would have been if there were not many theatre Kickstarters to do an analysis on. This would have led to an analysis based on a small sample size which could have led to an inaccurate analysis. 
  
 ## Results 
 #### Theater Outcomes Based on Launch Dates Results
