@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
-##Analysis and Challenges
+## Analysis and Challenges
 
 ### Theatre Outcomes Based on Launch Date 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tommy-chin/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
