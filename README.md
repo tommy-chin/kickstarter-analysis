@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
+### Purpose
 A client was interested in understanding how different Kickstarter campaigns performed based on their launch dates and funding goals. Based on the Kickstarter data that was analyzed, this analysis demonstrates how the launch date and the funding goal may be correlated to success, failure, and cancelation numbers of Kickstarter projects. 
 ## Analysis and Challenges
 
