@@ -6,4 +6,4 @@ Performing analysis on Kickstarter data to uncover trends
 ## Outcomes based on Goals 
 ![Outcomes_vs_Goals.png](https://github.com/tommy-chin/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
-#From the Theater Outcomes by 
+# From the Theater Outcomes by 
