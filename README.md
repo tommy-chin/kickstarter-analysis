@@ -13,7 +13,7 @@ There were no challenges or difficulties that were encountered when performing t
  
 ## Results 
 #### Theater Outcomes Based on Launch Dates Results
-From the Theater Outcomes Based on Launch Date chart, it was determined that Kickstarters that started in the month of May had the greatest number of successful outcomes. It was also determined that Kickstarters that started in the month of December had the least number of successful outcomes.
+From the Theater Outcomes Based on Launch Date chart, it was found that Kickstarters that started in the month of May had the greatest number of successful outcomes. Kickstarters that started in the month of December had the least number of successful outcomes.
 #### Outcomes Based on Goals Results
 From the Outcomes Based on Goals chart, it was determined that Kickstarters that had funding goals of between $35,000 to $44,999 seemed to have a very high success percentage. Funding goals of $45,000 and over had a drastic drop in success percentage. 
 #### Analysis Limitations
